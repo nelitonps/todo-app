@@ -1,0 +1,20 @@
+.header{
+    justify-content: center;
+    gap: 10px;
+    background-color: rgb(223 215 243 / 0%);
+    box-shadow: 0px 0px 8px #00000075;
+    height: 10%;
+}
+
+img{
+    height: 2rem;
+}
+
+span{
+    display: flex;
+    align-items: center;
+}
+
+span h1{
+    font-weight: 700;    
+}

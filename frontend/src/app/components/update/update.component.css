@@ -1,0 +1,29 @@
+form{
+    width: 85%;
+    margin: 2rem auto 0 auto;
+    text-align: center;
+}
+
+.data-Finalizar{
+    color: rgb(88, 88, 210);
+    
+}
+
+h1{
+    font-size: 2rem;
+    font-weight: 600;
+    margin-bottom: 3rem;
+    color: rgb(68, 67, 67);
+}
+
+.form{
+    width: 60%;
+}
+
+.buttons{
+    width: 100%;
+}
+
+button{
+    margin-right: .5rem;
+}

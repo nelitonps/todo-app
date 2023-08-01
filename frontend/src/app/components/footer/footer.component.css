@@ -1,0 +1,16 @@
+.footer{
+    background-color: rgb(4 28 45);
+    position: fixed;
+    bottom: 0;
+    height: 5%;
+    display: flex;
+    justify-content: center;
+}
+
+p{
+    padding-top: 12px;
+    font-size: 12px;
+    font-weight: 300;
+    color: white;
+    
+}
