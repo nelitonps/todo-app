@@ -1,4 +1,4 @@
 export const environment = {
-    production: false,
-    baseUrl: 'http://localhost:8080/todos'
+    production: true,
+    baseUrl: 'https://todo-app-npsouza-006d5937c80b.herokuapp.com/todos'
 };
